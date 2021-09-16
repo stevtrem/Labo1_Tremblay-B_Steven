@@ -1,0 +1,15 @@
+{
+  "name": "Laboratoire 1",
+  "version": "1.0.0",
+  "description": "Laboratoire permettant d'utiliser un API afin d'effectuer des opérations mathématiques",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serveur.js"
+  },
+  "author": "Steven Tremblay-Blanchette",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
